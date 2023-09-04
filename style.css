@@ -3,6 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #F8C998;
+    min-height:100vh;
 }
 
 h1{
